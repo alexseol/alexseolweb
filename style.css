@@ -1,0 +1,29 @@
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+h1 {
+    letter-spacing: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    line-height: 32px;
+}
+
+p {
+    letter-spacing: 10px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    line-height: 32px;
+}
+
+div {
+    text-align: center;
+}
